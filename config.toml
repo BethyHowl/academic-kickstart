@@ -9,7 +9,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "Academic"
+title = "Courtney B Howland"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -52,8 +52,8 @@ enableGitInfo = false
   # AUTHOR SETUP
 
   # Your details.
-  name = "Lena Smith"
-  role = "Professor of Artificial Intelligence"
+  name = "Courtney B Howland"
+  role = "Student of Texas at Arlington"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -70,7 +70,7 @@ enableGitInfo = false
   Wednesday 09:00 to 10:00<br>
   Otherwise email to book an appointment
   """
-  phone = "888 888 88 88"
+  phone = "903 520 0376"
   skype = "echo123"
   telegram = ""
   keybase = ""  # Your keybase.io username.
