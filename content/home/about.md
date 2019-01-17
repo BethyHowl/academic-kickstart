@@ -11,26 +11,27 @@ weight = 5
 [interests]
   interests = [
     "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Web Design",
+    "Game Design",
+    "Visual Communication",
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "Object-Oriented Software Engineering"
+  institution = "University of Texas at Arlington"
+  year = 2018
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "Artificial Intelligence"
+  institution = "University of Texas at Arlington"
+  year = 2018
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
- 
+  course = "Databases"
+  institution = "University of Texas at Arlington"
+  year = 2018
+
 +++
 
 # Biography
