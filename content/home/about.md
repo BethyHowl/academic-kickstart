@@ -35,4 +35,4 @@ weight = 5
 +++
 
 # Biography
-Courtney B Howland is a undergraduate student at the University of Texas in Arlington. Her interest includes Web and App developement, and creating gaming enviroments.
+Courtney B Howland is a undergraduate student at the University of Texas in Arlington. Her interest includes Web and App developement, and creating gaming enviroments using UDK.
