@@ -11,7 +11,7 @@ weight = 5
 [interests]
   interests = [
     "Artificial Intelligence",
-    "Web Design",
+    "App/Web Design",
     "Game Design",
     "Visual Communication",
   ]
