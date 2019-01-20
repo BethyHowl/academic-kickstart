@@ -270,20 +270,20 @@ enableGitInfo = false
     icon_pack = "fab"
     link = "https://www.linkedin.com/in/courtney-b-howland-0366ba179/"
 
-  [[params.social]]
-    icon = "instagram"
-    icon_pack = "fab"
-    link = "https://www.instagram.com/bethyhowl/"
+  #[[params.social]]
+  #  icon = "instagram"
+  #  icon_pack = "fab"
+  #  link = "https://www.instagram.com/bethyhowl/"
     
-  [[params.social]]
-    icon = "facebook"
-    icon_pack = "fab"
-    link = "https://www.facebook.com/courtney.howland.50"
+  #[[params.social]]
+  #  icon = "facebook"
+  #  icon_pack = "fab"
+  #  link = "https://www.facebook.com/courtney.howland.50"
 
-  [[params.social]]
-    icon = "github"
-    icon_pack = "fab"
-    link = "https://github.com/BethyHowl"
+  #[[params.social]]
+  #  icon = "github"
+  #  icon_pack = "fab"
+  #  link = "https://github.com/BethyHowl"
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -305,20 +305,20 @@ enableGitInfo = false
   url = "#about"
   weight = 1
 
-#[[menu.main]]
-#  name = "Publications"
-#  url = "#publications_selected"
-#  weight = 2
+[[menu.main]]
+  name = "Qualification Summary"
+  url = "#publications_selected"
+  weight = 2
 
-#[[menu.main]]
-#  name = "Posts"
-#  url = "#posts"
-#  weight = 3
+[[menu.main]]
+  name = "Experience"
+  url = "#posts"
+  weight = 3
 
-#[[menu.main]]
-#  name = "Projects"
-#  url = "#projects"
-#  weight = 4
+[[menu.main]]
+  name = "Organizations"
+  url = "#projects"
+  weight = 4
 
 [[menu.main]]
   name = "Contact"
