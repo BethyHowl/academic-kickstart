@@ -16,17 +16,9 @@ weight = 5
     "Visual Communication",
   ]
 
-[Experience]
-  experience = [
-    "Artificial Intelligence",
-    "App/Web Design",
-    "Game Design",
-    "Visual Communication",
-  ]
-  
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "Object-Oriented Software Engineering"
+ course = "Object-Oriented Software Engineering"
   institution = "University of Texas at Arlington"
   year = 2018
 
@@ -49,7 +41,7 @@ Courtney B Howland is a undergraduate student at the University of Texas in Arli
 Java, Python, C++, C, UDK, CAD, Adobe Photoshop, and Video editing
 
 # Organizations
-Engineering Student Organization Member
-Faulconer Scholar, STEM, and FOCUS+Scholar
-Society of Women Engineers Member
-Phi Theta Kappa Honor Society
+* Engineering Student Organization Member
+* Faulconer Scholar, STEM, and FOCUS+Scholar
+* Society of Women Engineers Member
+* Phi Theta Kappa Honor Society
