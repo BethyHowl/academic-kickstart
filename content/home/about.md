@@ -16,6 +16,14 @@ weight = 5
     "Visual Communication",
   ]
 
+[Experience]
+  experience = [
+    "Artificial Intelligence",
+    "App/Web Design",
+    "Game Design",
+    "Visual Communication",
+  ]
+  
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "Object-Oriented Software Engineering"
