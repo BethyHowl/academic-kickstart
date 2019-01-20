@@ -36,3 +36,12 @@ weight = 5
 
 # Biography
 Courtney B Howland is a undergraduate student at the University of Texas in Arlington. Her interest includes Web and App developement, and creating gaming enviroments using UDK.
+
+# Experience
+Java, Python, C++, C, UDK, CAD, Adobe Photoshop, and Video editing
+
+# Organizations
+Engineering Student Organization Member
+Faulconer Scholar, STEM, and FOCUS+Scholar
+Society of Women Engineers Member
+Phi Theta Kappa Honor Society
