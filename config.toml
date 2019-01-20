@@ -290,7 +290,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "cv"
     icon_pack = "ai"
-    link = "files/cv.pdf"
+    link = "https://docs.google.com/document/d/1wnr2b8QP7pQpT1JgP9l487N87_DQmxJmv9o6_dhn-TU/edit?usp=sharing"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
@@ -329,7 +329,7 @@ enableGitInfo = false
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[menu.main]]
   name = "CV"
-  url = "files/cv.pdf"
+  url = "https://docs.google.com/document/d/1wnr2b8QP7pQpT1JgP9l487N87_DQmxJmv9o6_dhn-TU/edit?usp=sharing"
   weight = 7
 
 # Search.
