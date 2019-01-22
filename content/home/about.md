@@ -22,7 +22,7 @@ Courtney B Howland is a undergraduate student at the University of Texas in Arli
 * Innovative in designing and carrying out projects.
 
 # Experience/Skills
-Java, Python, C++, C, UDK, CAD, Adobe Photoshop, and Video editing tools
+Java, Python, C++, C, UDK, CAD, Adobe Photoshop.
 
 # Education
 * Pursuing a degree in Software Engineering with a minor in Mathematics
