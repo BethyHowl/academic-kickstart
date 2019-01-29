@@ -10,8 +10,9 @@ list_format = 2
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "static/img/20190129_012748.jpg"
+image = ""
 caption = ""
 
-image_preview = "static/img/20190129_012748.jpg"
 +++
+
+![](academic-kickstart/static/img/20190129_012748.jpg )
