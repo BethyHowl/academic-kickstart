@@ -24,4 +24,4 @@ filter_tag = ""
 filter_category = ""
 +++
 
-[[https://github.com/BethyHowl/academic-kickstart/blob/master/static/img/Me2.jpg]]
+![Alt text] (academic-kickstart/static/img/Me2.jpg?raw=true "Title")
