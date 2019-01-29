@@ -10,6 +10,8 @@ list_format = 2
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "static/img/20190129_012748.jpg"
+image = "20190129_012748.jpg"
 caption = ""
+
+image_preview = "20190129_012748.jpg"
 +++
