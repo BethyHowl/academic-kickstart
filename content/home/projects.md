@@ -58,4 +58,4 @@ App Proposal:
 
 # Sketches
 
-# ![alt text](https://github.com/BethyHowl/academic-kickstart/blob/master/static/img/20190129_012730.jpg)
+# ![alt text](https://github.com/BethyHowl/academic-kickstart/blob/master/static/img/20190129_012748.jpg)
