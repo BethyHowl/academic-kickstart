@@ -24,4 +24,8 @@ filter_tag = ""
 filter_category = ""
 +++
 
-# ![](https://github.com/BethyHowl/academic-kickstart/blob/master/static/img/20190129_012748.jpg)
+{{< figure library="1" src="20190129_012748.jpg" title="Sketch 1: Comic Search" >}}
+
+{{< figure library="1" src="20190129_012742.jpg" title="Sketch 2: Character Search" >}}
+
+{{< figure library="1" src="20190129_012730.jpg" title="Sketch 3: Comic Image Example" >}}
