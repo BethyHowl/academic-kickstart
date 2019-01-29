@@ -24,4 +24,4 @@ filter_tag = ""
 filter_category = ""
 +++
 
-![alt text](academic-kickstart/static/img/portrait.jpg)
+# ![alt text](academic-kickstart/static/img/portrait.jpg)
