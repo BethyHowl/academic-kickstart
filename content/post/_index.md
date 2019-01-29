@@ -10,6 +10,6 @@ list_format = 2
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = ""
-caption = ""
+image = "Me2.png"
+caption = "Sketch 1: Top, Sketch 2: Middle, Sketch 3: Bottom"
 +++
