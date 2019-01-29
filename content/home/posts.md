@@ -24,4 +24,4 @@ filter_tag = ""
 filter_category = ""
 +++
 
-![Alt text] (academic-kickstart/static/img/Me2.jpg "sketches")
+!['skteches'](academic-kickstart/static/img/Me2.jpg "sketches")
