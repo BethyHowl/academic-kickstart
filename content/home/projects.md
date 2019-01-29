@@ -55,3 +55,4 @@ Today, humans live in a world of technology, everyone is streaming netflix, play
 
 App Proposal:
 [a link] https://docs.google.com/document/d/1aFhEY4_zvjZIMC4t-YRZwVZwIOCbAg3O_LXiJp8gDS4/edit?usp=sharing
+
