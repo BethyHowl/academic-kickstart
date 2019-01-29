@@ -14,5 +14,3 @@ image = ""
 caption = ""
 
 +++
-
-# ![](academic-kickstart/static/img/20190129_012748.jpg )
