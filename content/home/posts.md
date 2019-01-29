@@ -24,4 +24,4 @@ filter_tag = ""
 filter_category = ""
 +++
 
-# ![](academic-kickstart/static/img/20190129_012748.jpg )
+# ![](https://github.com/BethyHowl/academic-kickstart/blob/master/static/img/20190129_012748.jpg)
