@@ -23,5 +23,3 @@ list_format = 2
 filter_tag = ""
 filter_category = ""
 +++
-
-!['sketches'](https://github.com/BethyHowl/academic-kickstart/blob/master/static/img/portrait.jpg "sketches")
