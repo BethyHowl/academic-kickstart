@@ -34,11 +34,11 @@ filter_category = ""
 
 {{< figure library="1" src="App_logo_rz.jpg" title="Updated Sketch 2: App Name" >}}
 
-{{< figure library="1" src="app_search.jpg" title="Updated Sketch 3: Search Feature" >}}
+{{< figure library="1" src="app_search_rz.jpg" title="Updated Sketch 3: Search Feature" >}}
 
-{{< figure library="1" src="app_comic_info.jpg" title="Updated Sketch 4: Comic Information" >}}
+{{< figure library="1" src="app_comic_info_rz.jpg" title="Updated Sketch 4: Comic Information" >}}
 
-{{< figure library="1" src="app_classifier.jpg" title="Updated Sketch 5: Character Classifier" >}}
+{{< figure library="1" src="app_classifier_rz.jpg" title="Updated Sketch 5: Character Classifier" >}}
 
-{{< figure library="1" src="app_characterSearch.jpg" title="Updated Sketch 6: Character Stats and Comic Recomendations" >}}
+{{< figure library="1" src="app_characterSearch_rz.jpg" title="Updated Sketch 6: Character Stats and Comic Recomendations" >}}
 
