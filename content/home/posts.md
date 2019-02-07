@@ -42,3 +42,4 @@ filter_category = ""
 
 {{< figure library="1" src="app_characterSearch_rz.jpg" title="Updated Sketch 6: Character Stats and Comic Recomendations" >}}
 
+[link] https://en.wikipedia.org/wiki/File:Symbol_from_Marvel%27s_The_Avengers_logo.svg
