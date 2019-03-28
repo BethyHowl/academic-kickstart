@@ -24,12 +24,6 @@ filter_tag = ""
 filter_category = ""
 +++
 
-{{< figure library="1" src="20190129_012748.jpg" title="Sketch 1: Comic Search" >}}
-
-{{< figure library="1" src="20190129_012742.jpg" title="Sketch 2: Character Search" >}}
-
-{{< figure library="1" src="20190129_012730.jpg" title="Sketch 3: Comic Image Example" >}}
-
 {{< figure library="1" src="Agartha_rz.jpg" title="Updated Sketch 1: Logo" >}}
 
 {{< figure library="1" src="App_logo_rz.jpg" title="Updated Sketch 2: App Name" >}}
